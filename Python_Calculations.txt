@@ -1,0 +1,11 @@
+1. Staffing_Utilization_Pct = (Total @ Work / Total Shift FTEs) * 100
+
+2. Staffing_Status (Healthy/Strained/Critical)
+
+3. Coverage_Gap = Total Shift FTEs - Total @ Work
+
+4. Absence_Burden_Pct = ( Total Absences / Current Shift FTEs) * 100
+
+5. Hireback_Pressure_Pct = (Hireback Total / Total Shift FTEs) * 100
+
+6. Hireback_Used (Yes/No)
