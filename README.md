@@ -3,7 +3,7 @@
 ## Overview
 This project analyzes staffing trends for the Durham Fire Department from **2021 through 2026**. The goal is to understand staffing levels, workforce distribution, and operational trends over time to support better planning and decision-making.
 
-The analysis was performed using **Python** for data processing and analysis, and **Power BI** for data visualization.
+The analysis was performed using **Python** for data processing, cleaning, and analysis, and **Power BI** for data visualization.
 
 ---
 
